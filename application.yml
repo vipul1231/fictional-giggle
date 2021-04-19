@@ -1,0 +1,7 @@
+spring:
+  profile:
+    active: dev
+
+user:
+  max-connection: 5
+  timeout-ms: 6000

@@ -1,0 +1,3 @@
+user:
+  max-connections: 1
+  timeout-ms: 3600
