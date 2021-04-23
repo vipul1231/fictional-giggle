@@ -1,3 +1,4 @@
 user:
   max-connection: 3
   timeout-ms: 5600
+  keyspace-name: appkeyspace-gatewayyml
