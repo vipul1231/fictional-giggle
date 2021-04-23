@@ -1,4 +1,4 @@
 user:
   max-connection: 2
   timeout-ms: 4800
-  gateway-dev: dev
+  testapp: dev
