@@ -2,4 +2,8 @@ user:
   max-connection: 2
   timeout-ms: 4800
   testapp: dev
-  keyspace-name: appkeyspace-dev
+
+spring:
+  data:
+    cassandra:
+      keyspace-name: appkeyspace-dev
